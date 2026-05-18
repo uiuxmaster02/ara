@@ -1,0 +1,22 @@
+{
+  "title": "Contact",
+  "breadcrumb_home": "Home",
+  "breadcrumb_current": "Contact",
+
+  "section_label": "Let's connect",
+  "headline": "Let's work together",
+  "desc": "We'd love to hear about your project. Fill in the form and our team will get back to you within 24 hours.",
+
+  "email": "info@aracreation.com",
+  "phone": "+91 76 777 91 818",
+  "follow_us": "Follow us:",
+
+  "field_name_label": "What's your name?",
+  "field_name_placeholder": "Full name here",
+  "field_email_label": "What's your e-mail?",
+  "field_email_placeholder": "Enter your mail here",
+  "field_message_label": "Have any message?",
+  "field_message_placeholder": "Write your message here",
+
+  "submit_btn": "Contact Us"
+}

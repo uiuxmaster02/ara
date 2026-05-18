@@ -1,0 +1,47 @@
+{
+  "title": "Advertisement Creation",
+  "title_line1": "Advertisement",
+  "title_line2": "Creation",
+  "breadcrumb_home": "Home",
+  "breadcrumb_current": "Advertisement Creation",
+
+  "who_label": "Who we are",
+  "who_desc": "Ara Creation believes in the power of creativity to ignite growth. We aim to empower brands to unlock their full potential by delivering cutting-edge advertisement solutions that drive measurable results and lasting impact.",
+  "who_cta": "About Us",
+
+  "stat1_value": "100%",
+  "stat1_label": "Client satisfaction guarantee",
+  "stat2_value": "200+",
+  "stat2_label": "Successfully finished projects",
+  "stat3_value": "50+",
+  "stat3_label": "Clients served globally",
+
+  "banner_tag": "as a creative studio",
+  "banner_headline": "We specialize in transforming bold ideas into captivating visual experiences.",
+
+  "clients_title": "50+ Trusted Clients Over Worldwide",
+
+  "blog_label": "Latest Insights",
+  "blog_title": "Our Blogs & News",
+  "blog_cta": "Explore All",
+
+  "blog_1_tag": "Insights",
+  "blog_1_title": "The power of visual storytelling in modern advertising",
+  "blog_1_read": "3 min read",
+  "blog_1_date": "May 10, 2026",
+
+  "blog_2_tag": "Strategy",
+  "blog_2_title": "Leveraging data to amplify your ad campaign success",
+  "blog_2_read": "4 min read",
+  "blog_2_date": "May 8, 2026",
+
+  "blog_3_tag": "Creative",
+  "blog_3_title": "The benefits of high-impact influencer partnerships",
+  "blog_3_read": "3 min read",
+  "blog_3_date": "May 5, 2026",
+
+  "blog_4_tag": "Analytics",
+  "blog_4_title": "The role of analytics in market research for ads",
+  "blog_4_read": "5 min read",
+  "blog_4_date": "May 3, 2026"
+}
